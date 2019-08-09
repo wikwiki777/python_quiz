@@ -65,4 +65,5 @@ def game_loop():
         print("")
 
 
+print("hellow")
 game_loop()
